@@ -2,13 +2,15 @@
 
 This is my version of the Curriculum for learning IA.
 
-Original source : Siraj Raval [Youtube](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)- [GitHub](https://github.com/llSourcell)
+Original source : Siraj Raval [Youtube](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) - [GitHub](https://github.com/llSourcell)
+
+___
 
 ## Act I - Math
 
 ### Part 1 Linear Algebra
 
-- [ ] Playlist of [3Blue1Brown](https://www.youtube.com/watch?v=kjBOesZCoqc&index=1&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+- [x] Playlist of [3Blue1Brown](https://www.youtube.com/watch?v=kjBOesZCoqc&index=1&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [ ] MIT Video [course](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 
 ### Part 2 Calculus
@@ -23,6 +25,8 @@ Original source : Siraj Raval [Youtube](https://www.youtube.com/channel/UCWN3xxR
 ### Part 4 Algorithms
 
 - [ ] Edx [Algorithms](https://www.edx.org/course/algorithm-design-analysis-pennx-sd3x)
+
+___
 
 ## Act II - Machine Learning & Python
 
@@ -50,6 +54,8 @@ Original source : Siraj Raval [Youtube](https://www.youtube.com/channel/UCWN3xxR
 ### Part 5 Project #1
 
 - [ ] ML Project Ideas [github](https://github.com/NirantK/awesome-project-ideas)
+
+___
 
 ## ACTE III - Deep Learning
 
@@ -99,3 +105,5 @@ ___
 ### Part 5 Kaggle Project #3
 
 - [ ] Try your best at a competition of your choice from[Kaggle](https://www.kaggle.com/competitions)
+
+___
