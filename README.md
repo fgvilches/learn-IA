@@ -1,4 +1,4 @@
-# Learn_IA
+# learn_IA
 
 This is my version of the Curriculum for learning IA.
 
@@ -46,14 +46,11 @@ ___
 - [ ] Udacity [intro-to-machine-learning](https://eu.udacity.com/course/intro-to-machine-learning--ud120)
 - [ ] Edx [Colombia courses](https://courses.edx.org/courses/course-v1:ColumbiaX+DS102X+2T2018/course/)
 
-### Part 4 Ideas of Machine Learning Project
+### Part 4 Ideas of Machine Learning Project #1
 
 - [ ] Competition of your choice [Kaggle](https://www.kaggle.com/competitions)
-- [ ] Kaggle Learn [guide](https://www.kaggle.com/learn/overview)
-
-### Part 5 Project #1
-
 - [ ] ML Project Ideas [github](https://github.com/NirantK/awesome-project-ideas)
+- [ ] Kaggle Learn [guide](https://www.kaggle.com/learn/overview)
 
 ___
 
@@ -104,6 +101,6 @@ ___
 
 ### Part 5 Kaggle Project #3
 
-- [ ] Try your best at a competition of your choice from[Kaggle](https://www.kaggle.com/competitions)
+- [ ] Try your best at a competition of your choice from [Kaggle](https://www.kaggle.com/competitions)
 
 ___
