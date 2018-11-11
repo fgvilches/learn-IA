@@ -10,7 +10,7 @@ ___
 
 ### Part 1 Linear Algebra
 
-- [x] Playlist of [3Blue1Brown](https://www.youtube.com/watch?v=kjBOesZCoqc&index=1&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+- [ ] Playlist of [3Blue1Brown](https://www.youtube.com/watch?v=kjBOesZCoqc&index=1&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [ ] MIT Video [course](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 - [ ] Wandida [youtube](https://www.youtube.com/watch?v=vBnB1Nw4pmo&list=PLie7a1OUTSaidNbJ34jPhn3h5xixkpw-3)
 
@@ -18,8 +18,8 @@ ___
 
 - [ ] Playlist of [3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 - [ ] Better explainder [website](https://betterexplained.com/guides/calculus/)
-- [] MIT [single-variable-calculus](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/)
-- [] MIT [multivariable-calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm)
+- [ ] MIT [single-variable-calculus](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/)
+- [ ] MIT [multivariable-calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm)
 
 ### Part 3 Probability
 
@@ -39,14 +39,17 @@ ___
 - [ ] Edx [introduction-python-data-science](https://www.edx.org/course/introduction-python-data-science-2)
 - [ ] Siraj Raval [playlist](https://www.youtube.com/watch?v=T5pRlIbr6gg&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU)
 - [ ] Codeacdemy [learn-python](https://www.codecademy.com/learn/learn-python)
+- [ ] w3resource  [tuto](https://www.w3resource.com/python/python-tutorial.php) + [Exercices](https://www.w3resource.com/python-exercises/)
 
 ### Part 2 Math of intelligence and Tensorflow
 
 - [ ] Siraj Raval [Math of Intelligence](https://www.youtube.com/watch?v=xRJCOz3AfYY&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D)
 - [ ] Siraj Raval [Intro to Tensor Flow](https://www.youtube.com/watch?v=2FmcHiLCwTU&list=PL2-dafEMk2A7EEME489DsI468AB0wQsMV)
+- [ ] DataFlair [Tensor Flow](https://data-flair.training/blogs/tensorflow-tutorial/)
 
 ### Part 3 Intro to Machine Learning
 
+- [ ] Introduction to machine learning [youtube](https://www.youtube.com/watch?time_continue=8668&v=ZiKMIuYidY0)
 - [ ] Google Machine Learning Recipes with Josh Gordon [youtube](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
 - [ ] Udacity [intro-to-machine-learning](https://eu.udacity.com/course/intro-to-machine-learning--ud120)
 - [ ] Edx [Colombia courses](https://courses.edx.org/courses/course-v1:ColumbiaX+DS102X+2T2018/course/)
@@ -57,6 +60,7 @@ ___
 
 - [ ] Sendex [youtube](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
 - [ ] Coursera [machine-learning](https://www.coursera.org/learn/machine-learning)
+- [ ] DataFair [Comprehensive list of ML tutorials](https://data-flair.training/blogs/machine-learning-tutorial/)
 
 ### Part 5 Ideas of Machine Learning Project #1
 
@@ -76,6 +80,7 @@ ___
 - [ ] Deep Learning IA [youtube](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w)
 - [ ] FastAI [Deep Learning](http://course.fast.ai/)
 - [ ] Google Deep Learning [udacity](https://eu.udacity.com/course/deep-learning--ud730)
+- [ ] Deep Learning Simplified [youtube](https://www.youtube.com/playlist?list=PLjJh1vlSEYgvGod9wWiydumYl8hOXixNu)
 
 ### Part 2 Feedforward Neural Networks and Backpropagation
 
