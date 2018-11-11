@@ -123,13 +123,12 @@ ___
 
 ### Part 7 Deep Reinforcement Learning
 
-- [ ] Part 1 and 2 of DL Book [DL Book](https://www.deeplearningbook.org/)
-- [ ] Part 1 and 2 of DL Book [DL Book](https://www.deeplearningbook.org/)
+- [ ] Watch CS 294 [here](http://rail.eecs.berkeley.edu/deeprlcourse/)
+- [ ] Build a Deep Q Network using Tensorflow
 
 ### Part 8 Project #2
 
-- [ ] Watch CS 294 [here](http://rail.eecs.berkeley.edu/deeprlcourse/)
-- [ ] Build a Deep Q Network using Tensorflow
+- [ ] Re-implement DL projects from Siraj Raval [Github](https://github.com/llSourcell?tab=repositories)
 
 ___
 
