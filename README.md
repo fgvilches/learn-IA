@@ -74,6 +74,8 @@ Original source : Siraj Raval [Youtube](https://www.youtube.com/channel/UCWN3xxR
 - [ ] Try your best at a competition of your choice from Kaggle.
 - [ ] Make sure to add great documentation to your github repository! Github is the new resume.
 
+___
+
 ## ACTE IV - Data Science
 
 ### Part 1 Data Pre-processing, Data Visualization
