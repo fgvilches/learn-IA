@@ -13,6 +13,7 @@ ___
 - [ ] Playlist of [3Blue1Brown](https://www.youtube.com/watch?v=kjBOesZCoqc&index=1&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [ ] MIT Video [course](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 - [ ] Wandida [youtube](https://www.youtube.com/watch?v=vBnB1Nw4pmo&list=PLie7a1OUTSaidNbJ34jPhn3h5xixkpw-3)
+- [ ] TheTrevTutor [youtube](https://www.youtube.com/playlist?list=PLDDGPdw7e6AjJacaEe9awozSaOou-NIx_)
 
 ### Part 2 Calculus
 
@@ -20,11 +21,16 @@ ___
 - [ ] Better explainder [website](https://betterexplained.com/guides/calculus/)
 - [ ] MIT [single-variable-calculus](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/)
 - [ ] MIT [multivariable-calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm)
+- [ ] TheTrevTutor Part I [youtube](https://www.youtube.com/playlist?list=PLDDGPdw7e6Aj1kTRn-MxD0YVZ-zEL5vBb)
+- [ ] TheTrevTutor Part II [youtube](https://www.youtube.com/playlist?list=PLDDGPdw7e6Ah6w0U4hrERCiUTNQiMfitK)
 
-### Part 3 Probability
+### Part 3 Discrete Mathematics
 
 - [ ] Edx [Probability](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2)
 - [ ] KhanAcademy [Probability](https://www.khanacademy.org/math/statistics-probability)
+- [ ] Coursera [discrete-mathematics](https://www.coursera.org/learn/discrete-mathematics)
+- [ ] TheTrevTutor [Discrete-Math-1](https://www.youtube.com/playlist?list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz)
+- [ ] TheTrevTutor [Discrete-Math-2](https://www.youtube.com/playlist?list=PLDDGPdw7e6Aj0amDsYInT_8p6xTSTGEi2)
 
 ### Part 4 Algorithms
 
@@ -155,5 +161,13 @@ ___
 ### Part 5 Kaggle Project #3
 
 - [ ] Try your best at a competition of your choice from [Kaggle](https://www.kaggle.com/competitions)
+
+___
+
+## ACTE V - Application of IA in video games
+
+### Part 1 Math for Game Developers
+
+- Jorge Rodriguez [youtube](https://www.youtube.com/playlist?list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My)
 
 ___
