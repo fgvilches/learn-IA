@@ -78,7 +78,7 @@ ___
 
 ___
 
-## ACTE III - Deep Learning
+## Act III - Deep Learning
 
 ### Part 1 Introduction to Deep Learning
 
@@ -138,7 +138,7 @@ ___
 
 ___
 
-## ACTE IV - Data Science
+## Act IV - Data Science
 
 ### Part 1 Data Pre-processing, Data Visualization
 
@@ -164,7 +164,7 @@ ___
 
 ___
 
-## ACTE V - Application of IA in video games
+## Act V - Application of IA in video games
 
 ### Part 1 Math for Game Developers
 
