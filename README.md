@@ -1,6 +1,6 @@
 # learn_IA
 
-This is my version of the Curriculum for learning IA.
+This is the rgracari version of the Curriculum for learning IA.
 
 Original source : Siraj Raval [Youtube](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) - [GitHub](https://github.com/llSourcell)
 
