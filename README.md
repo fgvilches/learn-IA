@@ -42,11 +42,11 @@ ___
 
 ### Part 1 Learn Python
 
-- [ ] Edx [introduction-python-data-science](https://www.edx.org/course/introduction-python-data-science-2)
+- [x] Edx [introduction-python-data-science](https://www.edx.org/course/introduction-python-data-science-2)
 - [ ] Siraj Raval [playlist](https://www.youtube.com/watch?v=T5pRlIbr6gg&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU)
-- [ ] Codeacdemy [learn-python](https://www.codecademy.com/learn/learn-python)
-- [ ] w3resource  [tuto](https://www.w3resource.com/python/python-tutorial.php) + [Exercices](https://www.w3resource.com/python-exercises/)
-- [ ] Datafair [From Beginner to Expert](https://data-flair.training/blogs/python-tutorial/)
+- [x] Codeacdemy [learn-python](https://www.codecademy.com/learn/learn-python)
+- [x] w3resource  [tuto](https://www.w3resource.com/python/python-tutorial.php) + [Exercices](https://www.w3resource.com/python-exercises/)
+- [x] Datafair [From Beginner to Expert](https://data-flair.training/blogs/python-tutorial/)
 
 ### Part 2 Math of intelligence and Tensorflow
 
